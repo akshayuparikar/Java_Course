@@ -1,2 +1,30 @@
 # Java_Course
 Java Course
+
+JAVA CODE FILE IS PRESENT INSIDE AS ZIP FILE AS FOLLOWING DIRECTION:
+filename.zip>
+Extract the file in your device...
+
+java code is present in this way in each folder. 
+JAVADAY1\src\dac>file.java
+
+DAY 1 TO 2 BASIC
+
+DAY 3 ARRAY
+
+DAY 4 CLASSES AND OBJECT
+
+DAY 5 STATIC AND NON STATIC METHOD
+
+DAY 6,7,8,9 OOPS CONCEPT
+
+DAY 10,11 COLLLECTION
+
+DAY 12 FILEHANDLING
+
+DAY 13 JDBC
+
+DAY 14 SOCKET PROGRAMMING
+THAT'S IT....
+
+FOLLOW FOR MORE SUCH...
