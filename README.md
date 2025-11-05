@@ -1,5 +1,5 @@
-# Java_Course
-Java Course
+# Java Practice
+Java Practice
 
 JAVA CODE FILE IS PRESENT INSIDE AS ZIP FILE AS FOLLOWING DIRECTION:
 filename.zip>
